@@ -126,7 +126,7 @@ function usd(x){
 
 # License
 
-This software is property of [**Dustin Poissant**](http://github.com/Liquir-ice).
+This software is property of [**Liquir-ice**](http://github.com/Liquir-ice).
 
 This software is distributed AS-IS with no warranties/guarantees either expressed or implied.
 
