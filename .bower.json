@@ -1,0 +1,14 @@
+{
+  "name": "AddSlider",
+  "homepage": "https://github.com/Liquir-ice/AddSlider",
+  "_release": "d8dec71b4f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d8dec71b4fce7ad372064f84d2ad25692633144d"
+  },
+  "_source": "https://github.com/Liquir-ice/AddSlider.git",
+  "_target": "*",
+  "_originalSource": "Liquir-ice/AddSlider",
+  "_direct": true
+}
